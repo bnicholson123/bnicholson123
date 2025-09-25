@@ -17,7 +17,11 @@
 ### [Self-Service](https://github.com/bnicholson123/self-service)
 
 - [Employee](https://github.com/bnicholson123/self-service-employee)
+- [Faculty](https://github.com/bnicholson123/self-service-faculty)
+- [Finance](https://github.com/bnicholson123/self-service-finance)
 - [General](https://github.com/bnicholson123/self-service-general)
+- [Registration](https://github.com/bnicholson123/self-service-registration)
+- [Student](https://github.com/bnicholson123/self-service-student)
 
 ### [ICCB](https://github.com/bnicholson123/iccb)
 
