@@ -1,6 +1,6 @@
 ## GitHub Practices
 
-- Always suggest updating pull request branches<sup>[1](https://github.blog/changelog/2022-02-03-more-ways-to-keep-your-pull-request-branch-up-to-date/), [2](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-suggestions-to-update-pull-request-branches)</sup>
+- Always suggest updating pull request branches, with merge commits<sup>[1](https://github.blog/changelog/2022-02-03-more-ways-to-keep-your-pull-request-branch-up-to-date/), [2](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-suggestions-to-update-pull-request-branches)</sup>
 
 ## repos I contribute to
 
