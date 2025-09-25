@@ -5,12 +5,10 @@
 ## repos I contribute to
 
 ### [My Desktop](https://github.com/bnicholson123/_desktop)
-
-- a repository that contains work-in-progress items
+> a repository that contains work-in-progress items
 
 ### [sandbox](https://github.com/bnicholson123/_sandbox_0)
-
-- a repository for testing, general use, and idk what else
+> a repository for testing, general use, and idk what else
 
 ### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management)
 
