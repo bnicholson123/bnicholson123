@@ -4,6 +4,11 @@
 
 ## repos I contribute to
 
+### [Ethos](https://github.com/wcc-enterprise-systems/ethos)
+
+- [Examples for Bruno](https://github.com/wcc-enterprise-systems/ethos-examples-for-bruno)
+- [Examples for Python](https://github.com/wcc-enterprise-systems/ethos-examples-for-python)
+
 ### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management)
 
 ### [Self-Service](https://github.com/bnicholson123/self-service)
