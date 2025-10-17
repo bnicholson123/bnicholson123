@@ -4,12 +4,6 @@
 
 ## repos I contribute to
 
-### [My Desktop](https://github.com/bnicholson123/_desktop)
-> a repository that contains work-in-progress items
-
-### [sandbox](https://github.com/bnicholson123/_sandbox_0)
-> a repository for testing, general use, and idk what else
-
 ### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management)
 
 ### [Self-Service](https://github.com/bnicholson123/self-service)
@@ -33,3 +27,11 @@
 - [ID](https://github.com/bnicholson123/iccb-id)
 - [N1](https://github.com/bnicholson123/iccb-n1)
 - [SU and SR](https://github.com/bnicholson123/iccb-su-sr)
+
+#### for personal use
+
+##### [desktop](https://github.com/bnicholson123/_desktop)
+> a repository that contains work-in-progress items
+
+##### [sandbox](https://github.com/bnicholson123/_sandbox_0)
+> a repository for testing, general use, and idk what else
