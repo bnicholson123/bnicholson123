@@ -14,6 +14,13 @@
 
 ### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management)
 
+### [Banner Extensibility](https://github.com/wcc-enterprise-systems/banner-extensibility)
+
+- [Banner Theme Editor](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/banner-theme-editor)
+- [Configure Page Components](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/configure-page-components)
+- [Page Builder](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/page-builder)
+- [Text Manager](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/text-manager)
+
 ### [Self-Service](https://github.com/bnicholson123/self-service)
 
 - [Employee](https://github.com/bnicholson123/self-service-employee)
