@@ -30,18 +30,18 @@
 - [Registration](https://github.com/bnicholson123/self-service-registration)
 - [Student](https://github.com/bnicholson123/self-service-student)
 
-### [ICCB](https://github.com/bnicholson123/iccb)
+### [ICCB](https://github.com/wcc-enterprise-systems/iccb)
 
-- [A1](https://github.com/bnicholson123/iccb-a1) - Annual Enrollment and Completion
-- [A2](https://github.com/bnicholson123/iccb-a2) - Annual Completions
-- [AC](https://github.com/bnicholson123/iccb-ac) - Annual Courses
-- [C1](https://github.com/bnicholson123/iccb-c1) - Fall Faculty, Staff, and Salary
-- [C3](https://github.com/bnicholson123/iccb-c3) - Annual Faculty, Staff, and Salary
-- [E1](https://github.com/bnicholson123/iccb-e1) - Fall Enrollment
-- [GS](https://github.com/bnicholson123/iccb-gs) - Summer Graduates
-- [ID](https://github.com/bnicholson123/iccb-id) - Annual Student Identification
-- [N1](https://github.com/bnicholson123/iccb-n1) - Annual Noncredit Enrollment
-- [SU and SR](https://github.com/bnicholson123/iccb-su-sr) - Course Enrollment and Resources
+- [A1](https://github.com/wcc-enterprise-systems/iccb-a1) - Annual Enrollment and Completion
+- [A2](https://github.com/wcc-enterprise-systems/iccb-a2) - Annual Completions
+- [AC](https://github.com/wcc-enterprise-systems/iccb-ac) - Annual Courses
+- [C1](https://github.com/wcc-enterprise-systems/iccb-c1) - Fall Faculty, Staff, and Salary
+- [C3](https://github.com/wcc-enterprise-systems/iccb-c3) - Annual Faculty, Staff, and Salary
+- [E1](https://github.com/wcc-enterprise-systems/iccb-e1) - Fall Enrollment
+- [GS](https://github.com/wcc-enterprise-systems/iccb-gs) - Summer Graduates
+- [ID](https://github.com/wcc-enterprise-systems/iccb-id) - Annual Student Identification
+- [N1](https://github.com/wcc-enterprise-systems/iccb-n1) - Annual Noncredit Enrollment
+- [SU and SR](https://github.com/wcc-enterprise-systems/iccb-su-sr) - Course Enrollment and Resources
 
 #### for personal use
 
