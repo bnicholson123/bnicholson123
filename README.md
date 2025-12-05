@@ -32,16 +32,16 @@
 
 ### [ICCB](https://github.com/bnicholson123/iccb)
 
-- [A1](https://github.com/bnicholson123/iccb-a1)
-- [A2](https://github.com/bnicholson123/iccb-a2)
-- [AC](https://github.com/bnicholson123/iccb-ac)
-- [C1](https://github.com/bnicholson123/iccb-c1)
-- [C3](https://github.com/bnicholson123/iccb-c3)
-- [E1](https://github.com/bnicholson123/iccb-e1)
-- [GS](https://github.com/bnicholson123/iccb-gs)
-- [ID](https://github.com/bnicholson123/iccb-id)
-- [N1](https://github.com/bnicholson123/iccb-n1)
-- [SU and SR](https://github.com/bnicholson123/iccb-su-sr)
+- [A1](https://github.com/bnicholson123/iccb-a1) - Annual Enrollment and Completion
+- [A2](https://github.com/bnicholson123/iccb-a2) - Annual Completions
+- [AC](https://github.com/bnicholson123/iccb-ac) - Annual Courses
+- [C1](https://github.com/bnicholson123/iccb-c1) - Fall Faculty, Staff, and Salary
+- [C3](https://github.com/bnicholson123/iccb-c3) - Annual Faculty, Staff, and Salary
+- [E1](https://github.com/bnicholson123/iccb-e1) - Fall Enrollment
+- [GS](https://github.com/bnicholson123/iccb-gs) - Summer Graduates
+- [ID](https://github.com/bnicholson123/iccb-id) - Annual Student Identification
+- [N1](https://github.com/bnicholson123/iccb-n1) - Annual Noncredit Enrollment
+- [SU and SR](https://github.com/bnicholson123/iccb-su-sr) - Course Enrollment and Resources
 
 #### for personal use
 
