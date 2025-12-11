@@ -12,6 +12,8 @@
 
 ### [Experience](https://github.com/wcc-enterprise-systems/experience)
 
+### [Degree Works](https://github.com/wcc-enterprise-systems/degree-works)
+
 ### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management)
 
 ### [Banner Extensibility](https://github.com/wcc-enterprise-systems/banner-extensibility)
