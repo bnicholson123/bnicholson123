@@ -2,6 +2,9 @@
 
 - Always suggest updating pull request branches, with merge commits<sup>[1](https://github.blog/changelog/2022-02-03-more-ways-to-keep-your-pull-request-branch-up-to-date/), [2](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-suggestions-to-update-pull-request-branches)</sup>
 - Rename default branches from `master` to `main`<sup>[1](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/renaming-a-branch)</sup>
+- Because Organization owners always have access to every repository created in an organization<sup>[1](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)</sup>, the "Private" visibility only indicates a repo is for personal use
+- Name repositories as follows, generally preferring whole words over abbreviations:<sup>[1](https://github.com/orgs/wcc-enterprise-systems/repositories?q=sort%3Aname-asc)</sup>
+   > \_\_OWNER_WHEN_NOT_WCC\_\_-\_\_TOPIC\_\_-\_\_SUBTOPIC\_\_...
 
 ## repos I contribute to
 
