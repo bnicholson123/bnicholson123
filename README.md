@@ -42,6 +42,7 @@
 - [AC](https://github.com/wcc-enterprise-systems/iccb-ac) - Annual Courses
 - [C1](https://github.com/wcc-enterprise-systems/iccb-c1) - Fall Faculty, Staff, and Salary
 - [C3](https://github.com/wcc-enterprise-systems/iccb-c3) - Annual Faculty, Staff, and Salary
+- [DA](https://github.com/wcc-enterprise-systems/iccb-da) - Direct Admissions
 - [E1](https://github.com/wcc-enterprise-systems/iccb-e1) - Fall Enrollment
 - [GS](https://github.com/wcc-enterprise-systems/iccb-gs) - Summer Graduates
 - [ID](https://github.com/wcc-enterprise-systems/iccb-id) - Annual Student Identification
