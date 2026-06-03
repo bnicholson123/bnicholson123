@@ -5,6 +5,7 @@
 - Because Organization owners always have access to every repository created in an organization<sup>[1](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)</sup>, the "Private" visibility only indicates a repo is for personal use
 - Name repositories as follows, generally preferring whole words over abbreviations:<sup>[1](https://github.com/orgs/wcc-enterprise-systems/repositories?q=sort%3Aname-asc)</sup>
    > \_\_OWNER_WHEN_NOT_WCC\_\_-\_\_TOPIC\_\_-\_\_SUBTOPIC\_\_...
+- Per GitHub's advice, use semantic versioning for Tags and Releases<sup>[1](https://semver.org/), [2](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)</sup>
 
 ## repos I contribute to
 
