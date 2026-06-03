@@ -9,46 +9,46 @@
 
 ## repos I contribute to
 
-### [Ethos](https://github.com/wcc-enterprise-systems/ethos)
+### [Ethos](https://github.com/wcc-enterprise-systems/ethos) `ethos`
 
-- [Examples for Bruno](https://github.com/wcc-enterprise-systems/ethos-examples-for-bruno)
-- [Examples for Python](https://github.com/wcc-enterprise-systems/ethos-examples-for-python)
+- [Examples for Bruno](https://github.com/wcc-enterprise-systems/ethos-examples-for-bruno) `ethos-examples-for-bruno`
+- [Examples for Python](https://github.com/wcc-enterprise-systems/ethos-examples-for-python) `ethos-examples-for-python`
 
-### [Experience](https://github.com/wcc-enterprise-systems/experience)
+### [Experience](https://github.com/wcc-enterprise-systems/experience) `experience`
 
-### [Degree Works](https://github.com/wcc-enterprise-systems/degree-works)
+### [Degree Works](https://github.com/wcc-enterprise-systems/degree-works) `degree-works`
 
-### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management)
+### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management) `banner-communication-management`
 
-### [Banner Extensibility](https://github.com/wcc-enterprise-systems/banner-extensibility)
+### [Banner Extensibility](https://github.com/wcc-enterprise-systems/banner-extensibility) `banner-extensibility`
 
 - [Banner Theme Editor](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/banner-theme-editor)
 - [Configure Page Components](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/configure-page-components)
 - [Page Builder](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/page-builder)
 - [Text Manager](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/text-manager)
 
-### [Self-Service](https://github.com/bnicholson123/self-service)
+### [Self-Service](https://github.com/bnicholson123/self-service) `self-service`
 
-- [Employee](https://github.com/bnicholson123/self-service-employee)
-- [Faculty](https://github.com/bnicholson123/self-service-faculty)
-- [Finance](https://github.com/bnicholson123/self-service-finance)
-- [General](https://github.com/bnicholson123/self-service-general)
-- [Registration](https://github.com/bnicholson123/self-service-registration)
-- [Student](https://github.com/bnicholson123/self-service-student)
+- [Employee](https://github.com/bnicholson123/self-service-employee) `self-service-employee`
+- [Faculty](https://github.com/bnicholson123/self-service-faculty) `self-service-faculty`
+- [Finance](https://github.com/bnicholson123/self-service-finance) `self-service-finance`
+- [General](https://github.com/bnicholson123/self-service-general) `self-service-general`
+- [Registration](https://github.com/bnicholson123/self-service-registration) `self-service-registration`
+- [Student](https://github.com/bnicholson123/self-service-student) `self-service-student`
 
-### [ICCB](https://github.com/wcc-enterprise-systems/iccb)
+### [ICCB](https://github.com/wcc-enterprise-systems/iccb) `iccb`
 
-- [A1](https://github.com/wcc-enterprise-systems/iccb-a1) - Annual Enrollment and Completion
-- [A2](https://github.com/wcc-enterprise-systems/iccb-a2) - Annual Completions
-- [AC](https://github.com/wcc-enterprise-systems/iccb-ac) - Annual Courses
-- [C1](https://github.com/wcc-enterprise-systems/iccb-c1) - Fall Faculty, Staff, and Salary
-- [C3](https://github.com/wcc-enterprise-systems/iccb-c3) - Annual Faculty, Staff, and Salary
-- [DA](https://github.com/wcc-enterprise-systems/iccb-da) - Direct Admissions
-- [E1](https://github.com/wcc-enterprise-systems/iccb-e1) - Fall Enrollment
-- [GS](https://github.com/wcc-enterprise-systems/iccb-gs) - Summer Graduates
-- [ID](https://github.com/wcc-enterprise-systems/iccb-id) - Annual Student Identification
-- [N1](https://github.com/wcc-enterprise-systems/iccb-n1) - Annual Noncredit Enrollment
-- [SU and SR](https://github.com/wcc-enterprise-systems/iccb-su-sr) - Course Enrollment and Resources
+- [A1](https://github.com/wcc-enterprise-systems/iccb-a1) `iccb-a1` - Annual Enrollment and Completion
+- [A2](https://github.com/wcc-enterprise-systems/iccb-a2) `iccb-a2` - Annual Completions
+- [AC](https://github.com/wcc-enterprise-systems/iccb-ac) `iccb-ac` - Annual Courses
+- [C1](https://github.com/wcc-enterprise-systems/iccb-c1) `iccb-c1` - Fall Faculty, Staff, and Salary
+- [C3](https://github.com/wcc-enterprise-systems/iccb-c3) `iccb-c3` - Annual Faculty, Staff, and Salary
+- [DA](https://github.com/wcc-enterprise-systems/iccb-da) `iccb-da` - Direct Admissions
+- [E1](https://github.com/wcc-enterprise-systems/iccb-e1) `iccb-e1` - Fall Enrollment
+- [GS](https://github.com/wcc-enterprise-systems/iccb-gs) `iccb-gs` - Summer Graduates
+- [ID](https://github.com/wcc-enterprise-systems/iccb-id) `iccb-id` - Annual Student Identification
+- [N1](https://github.com/wcc-enterprise-systems/iccb-n1) `iccb-n1` - Annual Noncredit Enrollment
+- [SU and SR](https://github.com/wcc-enterprise-systems/iccb-su-sr) `iccb-su-sr` - Course Enrollment and Resources
 
 #### drafts, work-in-progress, sandboxes
 
