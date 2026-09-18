@@ -54,6 +54,10 @@
 - [N1](https://github.com/wcc-enterprise-systems/iccb-n1) `iccb-n1` - Annual Noncredit Enrollment
 - [SU and SR](https://github.com/wcc-enterprise-systems/iccb-su-sr) `iccb-su-sr` - Course Enrollment and Resources
 
+### ServiceDesk Knowledge Items
+
+- [KI 2843](https://github.com/wcc-enterprise-systems/ki-2843) `ki-2843` - Add A Printer In Banner
+
 #### drafts, work-in-progress, sandboxes
 
 ##### [desktop](https://github.com/bnicholson123/_desktop)
