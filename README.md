@@ -19,32 +19,34 @@
 
 ## repos I contribute to
 
-### [Ethos](https://github.com/wcc-enterprise-systems/ethos) `ethos`
+### [Ellucian](https://github.com/wcc-enterprise-systems/ellucian) `ellucian`
 
-- [Examples for Bruno](https://github.com/wcc-enterprise-systems/ethos-examples-for-bruno) `ethos-examples-for-bruno`
-- [Examples for Python](https://github.com/wcc-enterprise-systems/ethos-examples-for-python) `ethos-examples-for-python`
+- ### [Ethos](https://github.com/wcc-enterprise-systems/ethos) `ethos`
 
-### [Experience](https://github.com/wcc-enterprise-systems/experience) `experience`
+   - [Examples for Bruno](https://github.com/wcc-enterprise-systems/ethos-examples-for-bruno) `ethos-examples-for-bruno`
+   - [Examples for Python](https://github.com/wcc-enterprise-systems/ethos-examples-for-python) `ethos-examples-for-python`
 
-### [Degree Works](https://github.com/wcc-enterprise-systems/degree-works) `degree-works`
+- ### [Experience](https://github.com/wcc-enterprise-systems/experience) `experience`
 
-### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management) `banner-communication-management`
+- ### [Degree Works](https://github.com/wcc-enterprise-systems/degree-works) `degree-works`
 
-### [Banner Extensibility](https://github.com/wcc-enterprise-systems/banner-extensibility) `banner-extensibility`
+- ### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management) `banner-communication-management`
 
-- [Banner Theme Editor](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/banner-theme-editor)
-- [Configure Page Components](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/configure-page-components)
-- [Page Builder](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/page-builder)
-- [Text Manager](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/text-manager)
+- ### [Banner Extensibility](https://github.com/wcc-enterprise-systems/banner-extensibility) `banner-extensibility`
 
-### [Self-Service](https://github.com/bnicholson123/self-service) `self-service`
+   - [Banner Theme Editor](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/banner-theme-editor)
+   - [Configure Page Components](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/configure-page-components)
+   - [Page Builder](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/page-builder)
+   - [Text Manager](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/text-manager)
 
-- [Employee](https://github.com/bnicholson123/self-service-employee) `self-service-employee`
-- [Faculty](https://github.com/bnicholson123/self-service-faculty) `self-service-faculty`
-- [Finance](https://github.com/bnicholson123/self-service-finance) `self-service-finance`
-- [General](https://github.com/bnicholson123/self-service-general) `self-service-general`
-- [Registration](https://github.com/bnicholson123/self-service-registration) `self-service-registration`
-- [Student](https://github.com/bnicholson123/self-service-student) `self-service-student`
+- ### [Self-Service](https://github.com/bnicholson123/self-service) `self-service`
+
+   - [Employee](https://github.com/bnicholson123/self-service-employee) `self-service-employee`
+   - [Faculty](https://github.com/bnicholson123/self-service-faculty) `self-service-faculty`
+   - [Finance](https://github.com/bnicholson123/self-service-finance) `self-service-finance`
+   - [General](https://github.com/bnicholson123/self-service-general) `self-service-general`
+   - [Registration](https://github.com/bnicholson123/self-service-registration) `self-service-registration`
+   - [Student](https://github.com/bnicholson123/self-service-student) `self-service-student`
 
 <br>
 <br>
