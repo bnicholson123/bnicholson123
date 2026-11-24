@@ -2,6 +2,9 @@
 
 - [Waubonsee Community College on GitHub](https://github.com/wcc-enterprise-systems)
 
+<br>
+<br>
+
 ## my GitHub practices
 
 - Always suggest updating pull request branches, with merge commits<sup>[1](https://github.blog/changelog/2022-02-03-more-ways-to-keep-your-pull-request-branch-up-to-date/), [2](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-suggestions-to-update-pull-request-branches)</sup>
@@ -10,6 +13,9 @@
 - Name repositories as follows, generally preferring whole words over abbreviations:<sup>[1](https://github.com/orgs/wcc-enterprise-systems/repositories?q=sort%3Aname-asc)</sup>
    > \_\_OWNER_WHEN_NOT_WCC\_\_-\_\_TOPIC\_\_-\_\_SUBTOPIC\_\_...
 - Per GitHub's advice, use semantic versioning for Tags and Releases<sup>[1](https://semver.org/), [2](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)</sup>
+
+<br>
+<br>
 
 ## repos I contribute to
 
@@ -40,6 +46,9 @@
 - [Registration](https://github.com/bnicholson123/self-service-registration) `self-service-registration`
 - [Student](https://github.com/bnicholson123/self-service-student) `self-service-student`
 
+<br>
+<br>
+
 ### [ICCB](https://github.com/wcc-enterprise-systems/iccb) `iccb`
 
 - [A1](https://github.com/wcc-enterprise-systems/iccb-a1) `iccb-a1` - Annual Enrollment and Completion
@@ -54,14 +63,20 @@
 - [N1](https://github.com/wcc-enterprise-systems/iccb-n1) `iccb-n1` - Annual Noncredit Enrollment
 - [SU and SR](https://github.com/wcc-enterprise-systems/iccb-su-sr) `iccb-su-sr` - Course Enrollment and Resources
 
+<br>
+<br>
+
 ### ServiceDesk Knowledge Items
 
 - [KI 2843](https://github.com/wcc-enterprise-systems/ki-2843) `ki-2843` - Add A Printer In Banner
 
+<br>
+<br>
+
 #### drafts, work-in-progress, sandboxes
 
-##### [desktop](https://github.com/bnicholson123/_desktop)
-> a repository that contains work-in-progress items
+- [desktop](https://github.com/bnicholson123/_desktop)
+   > a repository that contains work-in-progress items
 
-##### [sandbox](https://github.com/bnicholson123/_sandbox)
-> a repository for testing, general use, and idk what else
+- [sandbox](https://github.com/bnicholson123/_sandbox)
+   > a repository for testing, general use, and idk what else
