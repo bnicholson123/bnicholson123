@@ -19,27 +19,27 @@
 
 ## repos I contribute to
 
-### [Ellucian](https://github.com/wcc-enterprise-systems/ellucian) `ellucian`
+**[Ellucian](https://github.com/wcc-enterprise-systems/ellucian)** `ellucian`
 
-- ### [Ethos](https://github.com/wcc-enterprise-systems/ethos) `ethos`
+- **[Ethos](https://github.com/wcc-enterprise-systems/ethos)** `ethos`
 
    - [Examples for Bruno](https://github.com/wcc-enterprise-systems/ethos-examples-for-bruno) `ethos-examples-for-bruno`
    - [Examples for Python](https://github.com/wcc-enterprise-systems/ethos-examples-for-python) `ethos-examples-for-python`
 
-- ### [Experience](https://github.com/wcc-enterprise-systems/experience) `experience`
+- **[Experience](https://github.com/wcc-enterprise-systems/experience)** `experience`
 
-- ### [Degree Works](https://github.com/wcc-enterprise-systems/degree-works) `degree-works`
+- **[Degree Works](https://github.com/wcc-enterprise-systems/degree-works)** `degree-works`
 
-- ### [Banner Communication Management](https://github.com/bnicholson123/banner-communication-management) `banner-communication-management`
+- **[Banner Communication Management](https://github.com/bnicholson123/banner-communication-management)** `banner-communication-management`
 
-- ### [Banner Extensibility](https://github.com/wcc-enterprise-systems/banner-extensibility) `banner-extensibility`
+- **[Banner Extensibility](https://github.com/wcc-enterprise-systems/banner-extensibility)** `banner-extensibility`
 
    - [Banner Theme Editor](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/banner-theme-editor)
    - [Configure Page Components](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/configure-page-components)
    - [Page Builder](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/page-builder)
    - [Text Manager](https://github.com/wcc-enterprise-systems/banner-extensibility/tree/main/text-manager)
 
-- ### [Self-Service](https://github.com/bnicholson123/self-service) `self-service`
+- **[Self-Service](https://github.com/bnicholson123/self-service)** `self-service`
 
    - [Employee](https://github.com/bnicholson123/self-service-employee) `self-service-employee`
    - [Faculty](https://github.com/bnicholson123/self-service-faculty) `self-service-faculty`
@@ -51,7 +51,7 @@
 <br>
 <br>
 
-### [ICCB](https://github.com/wcc-enterprise-systems/iccb) `iccb`
+**[ICCB](https://github.com/wcc-enterprise-systems/iccb)** `iccb`
 
 - [A1](https://github.com/wcc-enterprise-systems/iccb-a1) `iccb-a1` - Annual Enrollment and Completion
 - [A2](https://github.com/wcc-enterprise-systems/iccb-a2) `iccb-a2` - Annual Completions
@@ -68,14 +68,14 @@
 <br>
 <br>
 
-### ServiceDesk Knowledge Items
+**ServiceDesk Knowledge Items**
 
 - [KI 2843](https://github.com/wcc-enterprise-systems/ki-2843) `ki-2843` - Add A Printer In Banner
 
 <br>
 <br>
 
-#### drafts, work-in-progress, sandboxes
+**drafts, work-in-progress, sandboxes**
 
 - [desktop](https://github.com/bnicholson123/_desktop)
    > a repository that contains work-in-progress items
