@@ -21,7 +21,7 @@
 
 **[Ellucian](https://github.com/wcc-enterprise-systems/ellucian)** `ellucian`
 
-- **[integration-management](https://github.com/wcc-enterprise-systems/integration-management)** `integration-management`
+- **[Integration Management](https://github.com/wcc-enterprise-systems/integration-management)** `integration-management`
 <br><sup>(previously `ethos`)</sup>
 
    - [Examples for Bruno](https://github.com/wcc-enterprise-systems/integration-management-examples-for-bruno) `integration-management-examples-for-bruno`
