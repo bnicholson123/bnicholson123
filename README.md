@@ -21,14 +21,19 @@
 
 **[Ellucian](https://github.com/wcc-enterprise-systems/ellucian)** `ellucian`
 
-- **[Ethos](https://github.com/wcc-enterprise-systems/ethos)** `ethos`
+- **[integration-management](https://github.com/wcc-enterprise-systems/integration-management)** `integration-management`
+<br><sup>(previously `ethos`)</sup>
 
-   - [Examples for Bruno](https://github.com/wcc-enterprise-systems/ethos-examples-for-bruno) `ethos-examples-for-bruno`
-   - [Examples for Python](https://github.com/wcc-enterprise-systems/ethos-examples-for-python) `ethos-examples-for-python`
+   - [Examples for Bruno](https://github.com/wcc-enterprise-systems/integration-management-examples-for-bruno) `integration-management-examples-for-bruno`
+   <br><sup>(previously `ethos-examples-for-bruno`)</sup>
+   - [Examples for Python](https://github.com/wcc-enterprise-systems/integration-management-examples-for-python) `integration-management-examples-for-python`
+   <br><sup>(previously `ethos-examples-for-python`)</sup>
 
-- **[Experience](https://github.com/wcc-enterprise-systems/experience)** `experience`
+- **[Central Workspace](https://github.com/wcc-enterprise-systems/central-workspace)** `central-workspace`
+<br><sup>(previously `experience`)</sup>
 
-- **[Degree Works](https://github.com/wcc-enterprise-systems/degree-works)** `degree-works`
+- **[Degree Auditing](https://github.com/wcc-enterprise-systems/degree-auditing)** `degree-auditing`
+<br><sup>(previously `degree-works`)</sup>
 
 - **[Banner Communication Management](https://github.com/bnicholson123/banner-communication-management)** `banner-communication-management`
 
